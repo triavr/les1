@@ -1,5 +1,6 @@
-package com.egartech.animals;
-
+import com.egartech.animals.Airplane;
+import com.egartech.animals.Duck;
+import com.egartech.animals.Flyable;
 
 public class MainApp {
 
