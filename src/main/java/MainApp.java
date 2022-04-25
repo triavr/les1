@@ -8,6 +8,7 @@ public class MainApp {
         Flyable[] flyable = {
                 new Duck(),
                 new Airplane()
+
         };
 
         for (Flyable f : flyable) {
