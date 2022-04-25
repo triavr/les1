@@ -9,6 +9,7 @@ public class MainApp {
                 new Duck(),
                 new Airplane()
 
+
         };
 
         for (Flyable f : flyable) {
